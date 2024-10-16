@@ -60,3 +60,6 @@
 
 /* Remove shit from below server names */
 [aria-label="Channels"] .basicChannelRowLink_d8bfb3 {display: none;}
+
+/* No, I don't want to make a thread from a chain of more than 2 replies */
+[class*="threadSuggestionBar_"] {display: none;}
