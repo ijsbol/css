@@ -43,8 +43,6 @@
 [aria-label="User Settings Actions"] [id="user-context-close-dm"] {display: none;}
 [aria-label="User Settings Actions"] [id="user-context-apps"] {display: none;}
 [aria-label="User Settings Actions"] [id="user-context-invite-to-server"] {display: none;}
-[aria-label="User Settings Actions"] [id="user-context-invite-to-server"] {display: none;}
-[aria-label="User Settings Actions"] [id="user-context-notification-sounds"] {display: none;}
 [aria-label="User Settings Actions"] [id="user-context-notification-sounds"] {display: none;}
 
 /* I KNOW HOW TO USE DISCORD SHUT THE FUCK UP! */
@@ -67,3 +65,35 @@
 /* Show full bio */
 [class*=descriptionClamp_] {-webkit-line-clamp: unset;}
 [class*=viewFullBio] {display: none;}
+
+/* Declutter settings page */
+.socialLinks_c44e94 {display: none;}
+.info_c5a741 {display: none;}
+[aria-label="Family Centre"] {display: none;}
+[aria-label="Clips"] {display: none;}
+[aria-label="Merch"] {display: none;}
+.container_da1432 {display: none;}
+
+/* Declutter message hover UI */
+[aria-label="Pin Message"] {display: none;}
+[aria-label="Copy Message ID"] {display: none;}
+[aria-label="Copy Link"] {display: none;}
+[aria-label="Mark Unread"] {display: none;}
+[aria-label="Create Thread"] {display: none;}
+[aria-label="Add Reaction"] {display: none;}
+[aria-label="Edit Image with Apps"] {display: none;}
+
+/* Declutter emoji UI */
+.topGuildEmojiBadge_c3120f {display: none;}
+
+/* I don't like messaging people from their profiles */
+.userProfileInner_c69a7b .channelTextArea_d0696b {display: none}
+
+/* Who the fuck wants to react to a profile picture? */
+.popover_cf8aee.avatarPopover_cf8aee.wrapper_f7e168 {display: none;}
+
+/* Literally no one ever has asked for this button */
+[id="user-profile-overflow-menu-invite-to-server"] {display: none;}
+
+/* Shutup about guild warnings. */
+.notice_be03aa.notice_b5000b.colorNeutral_be03aa {display: none;}
