@@ -33,10 +33,6 @@
 /* Remove NEW mentions icon */
 .unreadMentionsIndicatorBottom_fea3ef {display: none;}
 
-/* Remove ping icon on discord icon in server list */
-.tutorialContainer_f9623d .lowerBadge_c5f96a {display: none;}
-.tutorialContainer_f9623d svg :nth-child(3) {display: none}
-
 /* Simplify the action menu on people right click */
 [aria-label="User Settings Actions"] [id="user-context-call"] {display: none;}
 [aria-label="User Settings Actions"] [id="user-context-note"] {display: none;}
