@@ -93,3 +93,6 @@
 
 /* Shutup about guild warnings. */
 .notice_be03aa.notice_b5000b.colorNeutral_be03aa {display: none;}
+
+[class^=tooltip] /* Allow the server tooltip to fit the entire server name in one line */ {
+    max-width: unset !important; /* allow it to be larger */ }
