@@ -96,3 +96,13 @@
 
 [class^=tooltip] /* Allow the server tooltip to fit the entire server name in one line */ {
     max-width: unset !important; /* allow it to be larger */ }
+
+/* I do not want adverts on my fucking profile card */
+[data-list-item-id*="__shop"] { 
+  display: none; 
+}
+[data-list-item-id*="__view-premium-perks"] { 
+  display: none; 
+}
+
+.overlay_c69a7b.biteSize_c69a7b.menuOverlay_ad5fac .menuDivider_ad5fac {display: none}
