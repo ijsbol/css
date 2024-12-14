@@ -19,6 +19,7 @@
     --underlineNav-borderColor-active: #8957e5!important;
     --button-star-iconColor: #9667d7!important;
 }
+
 .js-highlight-blob {
     stroke: #b687f7!important;
     fill: #9667d7!important;
@@ -26,4 +27,8 @@
 
 .Progress-item.rounded-2 {
     background-color: #9667d7!important;
+}
+
+.prc-Checkbox-Input-mxggT.prc-Radio-Radio-Ly4MR {
+    border-color: #9667d7!important;
 }
