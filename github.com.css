@@ -1,0 +1,17 @@
+:root {
+    --button-primary-bgColor-rest: #9667d7!important;
+    --button-primary-bgColor-hover: #b687f7!important;
+    --button-primary-bgColor-active: #c398fb!important;
+    --fgColor-accent: #ab7df8!important;
+    --borderColor-accent-muted: #ab7df866!important;
+    --borderColor-default: #ab7df866!important;
+    --borderColor-success-emphasis:  #ab7df866!important;
+    --bgColor-accent-muted: #ab7df826!important;
+    --bgColor-success-emphasis: #8957e5!important;
+    --bgColor-accent-emphasis: #8957e5!important;
+    --fgColor-success: #ab7df8!important;
+    --color-calendar-graph-day-L1-bg: #2a1352!important;
+    --color-calendar-graph-day-L2-bg: #462878!important;
+    --color-calendar-graph-day-L3-bg: #704faa!important;
+    --color-calendar-graph-day-L4-bg: #b994fa!important;
+}
