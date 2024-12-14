@@ -1,5 +1,29 @@
 :root {
-    --brand-500: #613da0;
+    --brand-500: #613da0!important;
+    --background-primary: #2c203d!important;
+    --background-secondary: #160b28!important;
+    --background-secondary-alt: #261d36!important;
+    --background-tertiary: #261d36!important;
+    --button-secondary-background: #664798;
+    --button-secondary-background-hover: #8365b5;
+    --input-background: #261d36!important;
+    --background-floating: #261d36!important;
+}
+
+.menu_d90b3d {
+    background: #191323;
+}
+
+.messagesPopoutWrap_ac90a2, .channelHeader_f3978e {
+    background: #160b28;
+}
+
+.footer_f9a4c9, .messageContainer_ddb5b4 {
+    background: #2c203d;
+}
+
+.root_f9a4c9, .themedBackground_bdf0de {
+    background: #3d3052;
 }
 
 .anchorUnderlineOnHover_af404b, .colorLink_dd4f85 {
