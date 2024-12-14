@@ -3,6 +3,7 @@
     --button-primary-bgColor-hover: #b687f7!important;
     --button-primary-bgColor-active: #c398fb!important;
     --fgColor-accent: #ab7df8!important;
+    --fgColor-link: #ab7df8!important;
     --borderColor-accent-muted: #ab7df866!important;
     --borderColor-default: #ab7df866!important;
     --borderColor-success-emphasis:  #ab7df866!important;
@@ -17,4 +18,12 @@
     --borderColor-accent-emphasis: #8957e5!important;
     --underlineNav-borderColor-active: #8957e5!important;
     --button-star-iconColor: #9667d7!important;
+}
+.js-highlight-blob {
+    stroke: #b687f7!important;
+    fill: #9667d7!important;
+}
+
+.Progress-item.rounded-2 {
+    background-color: #9667d7!important;
 }
