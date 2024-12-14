@@ -1,3 +1,27 @@
+:root {
+    --brand-500: #613da0;
+}
+
+.anchorUnderlineOnHover_af404b, .colorLink_dd4f85 {
+    color: #a887e2!important;
+}
+
+.lookFilled_dd4f85.colorBrand_dd4f85:hover {
+    background-color: #582e9c!important;
+}
+
+.container_cebd1c.checked_cebd1c {
+    background-color: #a887e2!important;
+}
+
+.slider_cebd1c path {
+    fill: #a887e2!important
+}
+
+span.mention.wrapper_bf1b19 {
+    background-color: rgba(179, 134, 250, 0.294)mportant
+}
+
 /* Declutter message UI */
 [aria-label="Send a gift"] {display:none;}
 [aria-label="Open GIF picker"] {display:none;}
@@ -104,5 +128,7 @@
 [data-list-item-id*="__view-premium-perks"] { 
   display: none; 
 }
+[aria-label="Shop"] {display: none;}
+[aria-label="View Nitro Perks"] {display: none;}
 
 .overlay_c69a7b.biteSize_c69a7b.menuOverlay_ad5fac .menuDivider_ad5fac {display: none}
