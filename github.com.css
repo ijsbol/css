@@ -1,3 +1,9 @@
+/* ==UserStyLe==
+@name         github.com.css
+@description  github.com.css
+@match        github.com
+==/UserStyle== */
+
 :root {
     --button-primary-bgColor-rest: #9667d7!important;
     --button-primary-bgColor-hover: #b687f7!important;
